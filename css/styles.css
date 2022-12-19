@@ -17,8 +17,7 @@ body {
   color: var(--primary-text-color);
 }
 
-
-.logo{
+.logo {
   font-family: var(--secondary-font);
   font-weight: 800;
   font-size: 18px;
@@ -27,7 +26,6 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
 }
 .web {
   color: #4d5ae5;
@@ -96,7 +94,7 @@ body {
   align-items: center;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background: #4D5AE5;
+  background: #4d5ae5;
   cursor: pointer;
 }
 /* VALUES */
