@@ -12,12 +12,13 @@
   text-decoration: none;
 }
 
-.body {
+body {
   font-family: var(--primary-font);
   color: var(--primary-text-color);
 }
 
-.web {
+
+.logo{
   font-family: var(--secondary-font);
   font-weight: 800;
   font-size: 18px;
@@ -26,18 +27,13 @@
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+
+}
+.web {
   color: #4d5ae5;
 }
 
 .studio {
-  font-family: var(--secondary-font);
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.33;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--primary-text-color);
 }
 
@@ -55,7 +51,6 @@
 }
 
 .contact-mail {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -63,7 +58,6 @@
 }
 
 .contact-tel {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -102,6 +96,7 @@
   align-items: center;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background: #4D5AE5;
   cursor: pointer;
 }
 /* VALUES */
@@ -114,7 +109,6 @@
 }
 
 .values-item {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -156,7 +150,6 @@
 }
 
 .team-position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
@@ -173,7 +166,6 @@
 }
 
 .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -216,7 +208,6 @@
 }
 
 .product-item {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -224,7 +215,6 @@
 }
 
 .product-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
