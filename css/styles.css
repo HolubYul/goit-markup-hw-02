@@ -75,7 +75,6 @@ a {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #fff;
 }
 
@@ -85,16 +84,12 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
-  border-radius: 4px;
-  width: 169px;
-  height: 56px;
   color: #fff;
   cursor: pointer;
 }
 
 .button-hero:focus,
 .button-hero:hover {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #404bbf;
 }
 /* VALUES */
@@ -128,8 +123,6 @@ a {
   line-height: 1.11;
   font-weight: 700;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
   color: #2e2f42;
 }
 
@@ -138,7 +131,6 @@ a {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 .team-position {
@@ -146,7 +138,6 @@ a {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #434455;
 }
 /* OUR PORTFOLIO */
@@ -158,8 +149,6 @@ a {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
   color: #2e2f42;
 }
 
@@ -188,7 +177,6 @@ a {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #f4f4fd;
 }
 .footer-text {
