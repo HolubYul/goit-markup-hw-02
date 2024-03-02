@@ -150,6 +150,9 @@ a {
   color: #434455;
 }
 /* OUR PORTFOLIO */
+.partfolio {
+  background-color: #ffffff;
+}
 .portfolio-title {
   font-size: 36px;
   font-weight: 700;
@@ -176,6 +179,9 @@ a {
   color: #434455;
 }
 /* FOOTER */
+.footer {
+  background-color: #2e2f42;
+}
 
 .footer-text {
   font-size: 16px;
