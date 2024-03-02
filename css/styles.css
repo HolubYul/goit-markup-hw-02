@@ -49,8 +49,12 @@ a {
   color: #404bbf;
   text-decoration: underline;
 }
-.address-list {
+
+.address {
   font-style: normal;
+}
+
+.address-list {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
@@ -69,7 +73,7 @@ a {
 .title-hero {
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -111,11 +115,15 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* OUR TEAM */
+.team {
+  background-color: #f4f4fd;
+}
 
 .title-team {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
